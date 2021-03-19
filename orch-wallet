@@ -9295,7 +9295,7 @@
                 }
             }
         },
-        "/ssw/wallet/health-check": {
+        "/ssw/wallet/health-checks/oi": {
             "get": {
                 "responses": {
                     "200": {
